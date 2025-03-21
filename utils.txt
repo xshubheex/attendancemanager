@@ -1,0 +1,8 @@
+idcount
+11
+
+AMSubjects
+{"1":"OS","2":"TOC","6":"Data Science","11":"Artificial Intelligence"}
+
+AMAttendance
+{"1":[4,5],"2":[4,4],"6":[9,12],"11":[0,0]}

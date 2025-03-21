@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(200, 200, 200, 0.5);
+}
+.main-body{
+    min-height: 80vh;
+}
+footer{
+    /* position: absolute;
+    bottom : 1%; */
+    width: 100%;
+}
+button{
+    max-width: 200px !important;
+}
+.subject-options{
+    max-width: 300px;
+}
+.mxwidth-300{
+    max-width: 300px;
+}
+@media (max-width:630px){
+    .attendancerow div{
+        display: block !important;
+    }
+}
