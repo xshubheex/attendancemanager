@@ -5,4 +5,4 @@ Note: This project is not open for contributions
 
 Status : Completed
 
-Github Pages : https://bitsnbyte-s.github.io/Attendance-App/
+Github Pages : https://attendancemanagerrr.netlify.app/
